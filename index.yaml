@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  flask-note:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-03-29T10:50:40.960581204+05:30"
+    dependencies:
+    - name: mariadb
+      repository: https://charts.bitnami.com/bitnami
+      version: "11"
+    description: A helm chart for flask-note app  1.0
+    digest: e1a93b96e275b4a81d1c327bf412bd291580abc3c20da05b97752d675f4a6774
+    name: flask-note
+    type: application
+    urls:
+    - flask-note-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-29T10:50:40.954271629+05:30"
